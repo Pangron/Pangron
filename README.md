@@ -1,0 +1,2 @@
+# Pangron
+Our discord bot
